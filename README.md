@@ -1,7 +1,9 @@
 ![](Banner_v2.gif)
 
 ## Hi there 👋
-On this page you will find my portfolio. Here I will be sharing with you my favorite projects. Let's get started! :fire:
+On this page you will find my portfolio. Here I will be sharing with you my favorite projects. 
+
+Let's get started! :fire:
 
 <!-- 
 **achrafkr/achrafkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
