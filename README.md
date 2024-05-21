@@ -2,7 +2,7 @@
 
 ## Hi there!👋 I'm Achraf ✈️
 
-Welcome! On this page, you'll find a fantastic collection of my favorite projects. Get ready to be inspired!✨
+Welcome to my profile! Here, you'll find a fantastic collection of my favorite projects. Get ready to be inspired!✨
 
 #### About Me:
 - :man_office_worker: I'm a Data Scientist, Data Engineer and AI Engineer with extensive expertise in data analytics and artificial intelligence 🤖. <br>
