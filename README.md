@@ -7,7 +7,7 @@ Welcome! On this page, you'll find a fantastic collection of my favorite project
 #### About Me:
 - :man_office_worker: I'm a Data Scientist, Data Engineer and AI Engineer with extensive expertise in data analytics and artificial intelligence 🤖. <br>
 - :classical_building: With a background in mathematics, I like to think about new ideas :bulb: and break down complex problems 📝 into more manageable parts and find a flexible way to solve them. 
-- :heart_eyes: I'm assionate about aviation ✈️.
+- :heart_eyes: I'm passionate about aviation ✈️.
 - :thought_balloon: I also have a genuine interest in exploring new fields and expanding my knowledge :brain:, from data visualization techniques :bar_chart:, through computer vision 👨‍🔬, to the more traditional statistical analysis 📈, among others!
 - :soccer: Soy Madridista 🤍
 
