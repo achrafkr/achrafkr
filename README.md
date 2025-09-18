@@ -10,10 +10,10 @@ Welcome to my profile! Here, you'll find a fantastic collection of my favorite p
 - :thought_balloon: I also have a genuine interest in exploring new fields and expanding my knowledge :brain:, from data visualization techniques :bar_chart:, through computer vision 👨‍🔬, to the more traditional statistical analysis 📈, among others!
 <br>
 
-## My Github Stats 📊
+<!-- ## My Github Stats 📊
 
 [![Achraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=achrafkr&show_icons=true&icon_color=e3b115&rank_icon=github&bg_color=45,159dc4,3678c8,7755ca&title_color=e3b115&text_color=ffffff&card_width=380)](https://github.com/achrafkr/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=achrafkr&theme=ambient-gradient&card_width=380&card_height=195)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=achrafkr&theme=ambient-gradient&card_width=380&card_height=195)](https://git.io/streak-stats) -->
 
 <!--"bg_colors": a163f0,e3b115,f7a51d,e4ee95,34c1ee,d979c0,8b34f9
     "streak themes":algolia,sunset-gradient,ocean-gradient,ambient-gradient-->
